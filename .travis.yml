@@ -6,4 +6,4 @@ install: pip install scrapelib pymongo nose celery  --use-mirrors
 script: nosetests
 notifications:
     email:
-        - jturk@sunlightfoundation.com
+        - msabramo@gmail.com
